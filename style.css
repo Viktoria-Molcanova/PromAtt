@@ -768,58 +768,72 @@ IMG.background_brand {
   body {
     overflow-x: hidden;
   }
+  
   .mobile-menu__link:hover {
     color: #F16D7F;
   }
+
   .header__link-site {
     display: none;
   }
+
   .sale {
     display: block;
     padding-bottom: 0%;
   }
+
   .promo__info {
     margin-bottom: 149px;
   }
+
   .header__right {
     position: relative;
     right: 16px;
   }
+
   .promo__img {
     display: none;
   }
+  
   .sale__item {
     margin-right: 16px;
     margin-left: 16px;
     margin-bottom: 32px;
   }
+
   .sale__item_big {
     background-size: cover;
     background-position: center;
     width: 343.262px;
     flex-shrink: 0;
   }
+
   .product-box center {
     padding-right: 8px;
     padding-left: 8px;
   }
+
   .product-box {
     position: relative;
     padding-top: 64px;
     padding-bottom: 85px;
   }
+
   .product-box__content {
     display: block;
   }
+
   .btn {
     margin-top: 40px;
     margin-bottom: 96px;
   }
+
   .promo__content {
     display: flex;
     padding: 0;
     margin-left: 80px;
   }
+
   .promo__title {
     color: #222;
     font-family: Lato;
@@ -828,6 +842,7 @@ IMG.background_brand {
     font-weight: 900;
     line-height: normal;
   }
+
   .promo__heading {
     color: #222;
     font-family: Lato;
@@ -836,6 +851,7 @@ IMG.background_brand {
     font-weight: 700;
     line-height: normal;
   }
+
   .fasion {
     color: #F16D7F;
     font-family: Lato;
@@ -844,22 +860,26 @@ IMG.background_brand {
     font-weight: 700;
     line-height: normal;
   }
+
   .rectangle {
     height: 550px;
     width: 375px;
   }
+
   .face {
     margin-top: 64px;
     margin-bottom: 394px;
     margin-left: 130px;
     margin-right: 86px;
   }
+
   .text {
     margin-top: 185px;
     margin-bottom: 192px;
     margin-left: 10px;
     margin-right: 86px;
   }
+
   .textsubscribe {
     width: 400px;
     margin-top: 317px;
@@ -867,24 +887,28 @@ IMG.background_brand {
     margin-left: 0px;
     margin-right: 86px;
   }
+
   .textbtn {
     margin-top: 400px;
     margin-bottom: 192px;
     margin-left: 40px;
     margin-right: 86px;
   }
+
   .btnsubscribe2 {
     margin-top: 393px;
     margin-bottom: 109px;
     margin-left: 250px;
     margin-right: auto;
   }
+
   .btnsubscribe {
     margin-top: 393px;
     margin-bottom: 109px;
     margin-left: 10px;
     margin-right: 86px;
   }
+
   .background_brand {
     padding-top: 0px;
     align-items: center;
@@ -894,6 +918,7 @@ IMG.background_brand {
     text-align: center;
     height: 143px;
   }
+
   .text_background {
     position: absolute;
     white-space: nowrap;
