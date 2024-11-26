@@ -612,7 +612,7 @@ summary {
 .restangle {
   background-size: cover;
   background-image: url("img/фон.jpg");
- width: 1600px;
+width: -webkit-fill-available;
 height: 448px;
 top: 3301px;
 gap: 0px;
