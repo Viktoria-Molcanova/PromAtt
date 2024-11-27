@@ -898,7 +898,7 @@ flex-shrink: 0;
 }
 .text_background{
   margin-left: 0%;
-position: absolute;
+
 display: inline;
   bottom:30px;
   margin-right:485px;
