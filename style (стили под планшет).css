@@ -3,7 +3,8 @@
   padding: 0;
 }
 
-@media(min-width: 767px)(max-width: 769px) {  
+
+@media(max-width: 768px) {  
 
 body {
   font-family: 'Lato', sans-serif;
@@ -909,6 +910,9 @@ display: inline;
   height: 79px;
   flex-shrink: 0;
 }
+
+}  
+
 
 }  
 
