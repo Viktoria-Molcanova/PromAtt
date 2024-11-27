@@ -2,8 +2,7 @@
   margin: 0;
   padding: 0;
 }
-
-@media (min-width: 374px)(max-width: 376px) { 
+@media (max-width: 378px) { 
 
 body {
   font-family: 'Lato', sans-serif;
@@ -726,7 +725,6 @@ summary {
 
 .background_brand {
   background-size: cover;
-  position: absolute;
   align-items: baseline;
   display: flex;
   gap: 12px;
@@ -924,11 +922,11 @@ IMG.background_brand {
   .text_background {
     position: absolute;
     white-space: nowrap;
-    top: 105px;
     margin-left: 750px;
     right: auto;
   }
 }
+
 
 
 
